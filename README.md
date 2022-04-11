@@ -11,13 +11,15 @@ Análise realizada como monografia de conclusão do curso de Matemática Aplicad
 
 ### Bibliotecas Utilizadas:
 
-   **Python**
+**Python**
+
         Pandas
         Numpy
         Statsmodels
         Plotly
 
-   **R**
+**R**
+
         Forecast
         Fpp3
 
@@ -25,9 +27,14 @@ Análise realizada como monografia de conclusão do curso de Matemática Aplicad
 _____
 
 ## Sumário
-   *dataset/datase_total.csv: pasta com os dados utilizados no trabalho
-   *analise_exploratoria.ipynb: Análise Exploratória dos Dados
-   *ingenuo.ipynb: Modelos Ingênuos
-   *box-and-jenkins.ipynb: seleção e ajuste dos modelos Box-and-Jenkins
-   *previsao.ipynb: Previsão e Comparação
+
+   **dataset/datase_total.csv:** pasta com os dados utilizados no trabalho
+   
+   **analise_exploratoria.ipynb:** Análise Exploratória dos Dados
+   
+   **ingenuo.ipynb:** Modelos Ingênuos
+   
+   **box-and-jenkins.ipynb:** seleção e ajuste dos modelos Box-and-Jenkins
+   
+   **previsao.ipynb:** Previsão e Comparação
 
